@@ -3,6 +3,7 @@
 [![Code Quality](https://github.com/aahnik/mendi/actions/workflows/quality.yml/badge.svg)](https://github.com/aahnik/mendi/actions/workflows/quality.yml)
 [![Tests](https://github.com/aahnik/mendi/actions/workflows/test.yml/badge.svg)](https://github.com/aahnik/mendi/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/aahnik/mendi/branch/main/graph/badge.svg?token=BdwfbFxpIP)](https://codecov.io/gh/aahnik/mendi)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mendi)
 
 A python library for building menu-driven CLI applications.
 
